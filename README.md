@@ -1,1 +1,2 @@
-# IE103-Lab
+# IE103 - Information Management
+Term 2 (2022-2023).
